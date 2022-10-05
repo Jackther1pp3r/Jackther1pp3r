@@ -1,5 +1,5 @@
 # 💫 About Me:
-Not working on anything current but have to plans to work on a testbed for ros2.
+Not working on anything currently but have a few projects for ROS on the back burner.
 
 
 ## 🌐 Socials:
